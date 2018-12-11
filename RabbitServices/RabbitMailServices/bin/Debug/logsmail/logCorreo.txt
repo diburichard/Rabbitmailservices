@@ -1,0 +1,18 @@
+------------------
+Correo enviado el 11/12/2018 17:29:55
+De: Administrador@RabbitmqTest.com
+Para: edsonlazos@gmail.com
+Asunto: Un archivo ha sido eliminado
+Mensaje: El archivo con id: d41d8cd98f00b204e9800998ecf8427e y nombre:  ha sido eliminado
+------------------
+Correo enviado el 11/12/2018 17:54:41
+De: Administrador@RabbitmqTest.com
+Para: edsonlazos@gmail.com
+Asunto: Un archivo ha sido creado
+Mensaje: Se ha creado un archivo con el nombre: 20130329_173431.jpg ha sido creado
+------------------
+Correo enviado el 11/12/2018 17:56:19
+De: Administrador@RabbitmqTest.com
+Para: edsonlazos@gmail.com
+Asunto: Un archivo ha sido creado
+Mensaje: Se ha creado un archivo con el nombre: 20130329_173431.jpg ha sido creado

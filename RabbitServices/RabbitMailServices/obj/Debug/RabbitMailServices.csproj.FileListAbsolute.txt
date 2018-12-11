@@ -1,0 +1,15 @@
+C:\Users\Richard\source\repos\RabbitMailServices\Rabbitmailservices\RabbitServices\RabbitMailServices\obj\Debug\RabbitMailServices.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\RabbitMailServices\Rabbitmailservices\RabbitServices\RabbitMailServices\bin\Debug\RabbitMailServices.exe.config
+C:\Users\Richard\source\repos\RabbitMailServices\Rabbitmailservices\RabbitServices\RabbitMailServices\bin\Debug\RabbitMailServices.exe
+C:\Users\Richard\source\repos\RabbitMailServices\Rabbitmailservices\RabbitServices\RabbitMailServices\bin\Debug\RabbitMailServices.pdb
+C:\Users\Richard\source\repos\RabbitMailServices\Rabbitmailservices\RabbitServices\RabbitMailServices\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Richard\source\repos\RabbitMailServices\Rabbitmailservices\RabbitServices\RabbitMailServices\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Richard\source\repos\RabbitMailServices\Rabbitmailservices\RabbitServices\RabbitMailServices\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Richard\source\repos\RabbitMailServices\Rabbitmailservices\RabbitServices\RabbitMailServices\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Richard\source\repos\RabbitMailServices\Rabbitmailservices\RabbitServices\RabbitMailServices\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Richard\source\repos\RabbitMailServices\Rabbitmailservices\RabbitServices\RabbitMailServices\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Richard\source\repos\RabbitMailServices\Rabbitmailservices\RabbitServices\RabbitMailServices\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Richard\source\repos\RabbitMailServices\Rabbitmailservices\RabbitServices\RabbitMailServices\obj\Debug\RabbitMailServices.csproj.CopyComplete
+C:\Users\Richard\source\repos\RabbitMailServices\Rabbitmailservices\RabbitServices\RabbitMailServices\obj\Debug\RabbitMailServices.exe
+C:\Users\Richard\source\repos\RabbitMailServices\Rabbitmailservices\RabbitServices\RabbitMailServices\obj\Debug\RabbitMailServices.pdb
+C:\Users\Richard\source\repos\RabbitMailServices\Rabbitmailservices\RabbitServices\RabbitMailServices\obj\Debug\RabbitMailServices.csprojAssemblyReference.cache
