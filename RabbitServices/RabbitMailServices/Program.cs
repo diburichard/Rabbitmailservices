@@ -46,7 +46,7 @@ namespace MailingBackEndSimulation
                     catch (Exception e)
                     {
                         //Console.WriteLine(" [.] " + e.Message);
-                        response = "";
+                        response = "false";
                     }
                     finally
                     {
@@ -77,7 +77,7 @@ namespace MailingBackEndSimulation
             SmtpClient smtp = new SmtpClient();
 
             smtp.Host = "smtp.gmail.com";
-            smtp.Port = 25; //465; //25 //587
+            smtp.Port = 587; //465; //25 //587 //25
             smtp.Credentials = new NetworkCredential("dibu.richard.test@gmail.com", "Passw0rdTest123");
             smtp.EnableSsl = true;
             try
@@ -114,7 +114,7 @@ namespace MailingBackEndSimulation
                 File.AppendAllText(@".\logsmail\logCorreo.txt", "Para: " + mail.to + Environment.NewLine);
                 File.AppendAllText(@".\logsmail\logCorreo.txt", "Asunto: " + mail.subject + Environment.NewLine);
                 File.AppendAllText(@".\logsmail\logCorreo.txt", "Mensaje: " + mail.message + Environment.NewLine);
-                //SendEmail(mail.to, mail.subject, mail.message);
+                SendEmail(mail.to, mail.subject, mail.message);
             }
             return "true";
         }

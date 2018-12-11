@@ -16,3 +16,27 @@ De: Administrador@RabbitmqTest.com
 Para: edsonlazos@gmail.com
 Asunto: Un archivo ha sido creado
 Mensaje: Se ha creado un archivo con el nombre: 20130329_173431.jpg ha sido creado
+------------------
+Correo enviado el 11/12/2018 18:27:32
+De: Administrador@RabbitmqTest.com
+Para: edsonlazos@gmail.com
+Asunto: Un archivo ha sido creado
+Mensaje: Se ha creado un archivo con el nombre: otitis interna.png ha sido creado
+------------------
+Correo enviado el 11/12/2018 18:35:28
+De: Administrador@RabbitmqTest.com
+Para: edsonlazos@gmail.com
+Asunto: Un archivo ha sido creado
+Mensaje: Se ha creado un archivo con el nombre: otitis interna.png ha sido creado
+------------------
+Correo enviado el 11/12/2018 18:35:53
+De: Administrador@RabbitmqTest.com
+Para: gustavo.conde.rivera@gmail.com
+Asunto: Un archivo ha sido creado
+Mensaje: Se ha creado un archivo con el nombre: otitis interna.png ha sido creado
+------------------
+Correo enviado el 11/12/2018 18:35:59
+De: Administrador@RabbitmqTest.com
+Para: dibu.richard@gmail.com
+Asunto: Un archivo ha sido creado
+Mensaje: Se ha creado un archivo con el nombre: otitis interna.png ha sido creado
