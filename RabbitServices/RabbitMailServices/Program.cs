@@ -74,6 +74,7 @@ namespace MailingBackEndSimulation
             mail.Subject = Subject;
             mail.Body = Body;
 
+
             SmtpClient smtp = new SmtpClient();
 
             smtp.Host = "smtp.gmail.com";
